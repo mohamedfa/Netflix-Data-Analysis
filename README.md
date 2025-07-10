@@ -13,9 +13,7 @@ Analyzing the global catalog of Netflix movies and TV shows. Explore content ava
    - [Overview](#1-overview)  
    - [Detailed](#2-detailed)  
 5. [Key Insights](#key-insights)  
-6. [Future Work / Task Ideas](#future-work--task-ideas)  
-7. [Interactive Dashboard](#interactive-dashboard)  
-8. [License](#license)
+6. [Interactive Dashboard](#interactive-dashboard)
 
 ---
 
