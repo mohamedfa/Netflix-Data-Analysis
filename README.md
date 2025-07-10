@@ -41,7 +41,9 @@ Netflix is one of the world’s leading streaming platforms, offering over 8,800
 1. **Import & Clean**  
    - Loaded CSV via Power Query  
    - Verified data types, removed duplicates, handled nulls  
-2. **Semantic Model**  
+2. **Semantic Model**
+   <img width="917" height="404" alt="Screenshot 2025-07-08 172342" src="https://github.com/user-attachments/assets/5911e603-2ae4-4ee4-a31b-2c4ad9e30c14" />
+
    - Star schema with fact table `netflix_titles` and dimension tables:
      - **Cast** (`show_id`, `cast`)  
      - **Director** (`show_id`, `director`)  
